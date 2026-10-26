@@ -1,0 +1,11 @@
+review_id,product_title,review_text,review_date,rating,source,reviewer,sentiment,sentiment_score,aspect_tags
+1,Samsung TV,Excellent picture quality and bright colors,2026-09-12,5,BestBuy,Reviewer1,Positive,0.765,"Picture, Quality"
+2,Samsung TV,Easy setup and great smart features,2026-09-14,5,BestBuy,Reviewer2,Positive,0.8658,"Setup, Smart Features"
+3,Samsung TV,Picture is good but sound is average,2026-09-16,3,BestBuy,Reviewer3,Positive,0.2382,"Picture, Sound"
+4,Samsung TV,Remote stopped working after a week,2026-09-18,1,BestBuy,Reviewer4,Negative,-0.2263,"Smart Features, Quality"
+5,Samsung TV,Good value and smooth streaming,2026-09-20,4,BestBuy,Reviewer5,Positive,0.6486,Smart Features
+6,Samsung TV,Screen is bright and easy to use,2026-09-22,5,BestBuy,Reviewer6,Positive,0.7003,"Picture, Setup"
+7,Samsung TV,Sound quality is disappointing,2026-09-24,2,BestBuy,Reviewer7,Negative,-0.4939,"Sound, Quality"
+8,Samsung TV,Great TV for movies and gaming,2026-09-26,5,BestBuy,Reviewer8,Positive,0.6249,Gaming
+9,Samsung TV,Setup was confusing but works fine,2026-09-28,3,BestBuy,Reviewer9,Positive,0.1901,Setup
+10,Samsung TV,Very poor quality and frequent problems,2026-09-30,1,BestBuy,Reviewer10,Negative,-0.7264,Quality
