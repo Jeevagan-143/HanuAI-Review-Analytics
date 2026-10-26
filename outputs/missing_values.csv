@@ -1,0 +1,26 @@
+,missing_count,missing_percent
+Event id,0,0.0
+Opened date,0,0.0
+CAUSAL_VERBATIM,1,0.1
+CORRECTION_VERBATIM,0,0.0
+CUSTOMER_VERBATIM,0,0.0
+BUILD_DATE,0,0.0
+BUILD_PLANT_DESC,0,0.0
+CAUSAL_CD_DESC,3,0.3
+COMPLAINT_CD_DESC,0,0.0
+IN_USE_DATE,1,0.1
+MAKE,0,0.0
+MODEL,0,0.0
+MODLYR,0,0.0
+PLANT,0,0.0
+Trigger,995,99.5
+Failure Component,995,99.5
+Failure Condition,995,99.5
+Additional Context,995,99.5
+Fix Component,995,99.5
+Fix Condition,995,99.5
+combined_text,0,0.0
+clean_text,0,0.0
+text_length,0,0.0
+word_count,0,0.0
+text_cluster,0,0.0
